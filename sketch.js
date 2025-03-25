@@ -76,7 +76,7 @@ function setup() {
   
   //SIN EL COLLIDER el rex tiene el tama;o de la imagen y colisiona mal
   // para ver el hitbox
-  trex.debug = true;
+  //trex.debug = true;
   //para cambiar la forma y el tamaño del hitbox
   trex.setCollider("circle",0,0,40)
 
